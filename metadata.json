@@ -1,0 +1,11 @@
+{
+	"name": "Q2A Contact Page",
+	"uri": "https://github.com/Kuddus95/q2a-contact-page",
+	"description": "A plugin for users contact",
+	"version": "1.8",
+	"date": "2022-01-14",
+	"author": "Aman", 
+	"author_uri": "http://www.ask-ans.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
